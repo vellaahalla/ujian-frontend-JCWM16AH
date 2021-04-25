@@ -1,0 +1,17 @@
+export const SET_AUTH = "SET_AUTH"
+export const LOG_IN = "LOG_IN"
+export const REGISTER = "REGISTER"
+
+export const SET_PRODUCTS="SET_PRODUCT"
+export const SET_LOADING_PRODUCTS="SET_LOADING_PRODUCTS"
+
+export const ADD_CART = "ADD_CART"
+export const SET_CART = "SET_CART"
+export const SET_LOADING_CART = "SET_LOADING_CART"
+export const DELETE_CART = "DELETE_CART"
+export const EDIT_CART = "EDIT_CART"
+export const DELETE_ALL_CART = "DELETE_ALL_CART"
+
+export const SET_HISTORIES = "SET_HISTORIES"
+export const SET_LOADING_HISTORIES = "SET_LOADING_HISTORIES"
+export const DELETE_TRANSACTION="DELETE_TRANSACTION"

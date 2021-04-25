@@ -1,0 +1,16 @@
+.HeaderComponent{
+    background-color: rgb(205, 213, 219);
+}
+.HeaderComponent-navigation{
+    display: flex;
+    position: sticky;
+    top: 0; 
+}
+
+.HeaderComponent-navigation a{
+    margin-right: 10px
+}
+
+.HeaderComponent-badge {
+    margin-left: 150px
+}
